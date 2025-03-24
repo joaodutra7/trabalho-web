@@ -1,3 +1,12 @@
 {
-  "users": []
+  "users": [
+    {
+      "id": "6b53",
+      "name": "teste2",
+      "email": "teste@gmail.com",
+      "phone": "(47) 99223-6969",
+      "login": "teste",
+      "password": "123"
+    }
+  ]
 }
